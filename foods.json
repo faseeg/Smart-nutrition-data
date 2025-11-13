@@ -251,6 +251,28 @@
       "vitamin_c": 0,
       "vitamin_d": 0
     }
+  },
+  {
+  "name": "Tilapia, cooked",
+  "aliases": ["tilapia", "tilapia fillet"],
+  "source": "Custom Library",
+  "per100": {
+    "calories": 129,
+    "protein": 26,
+    "fat": 2.7,
+    "carbs": 0,
+    "fiber": 0,
+    "sugar": 0,
+    "cholesterol": 55,
+    "sodium": 50,
+    "potassium": 400,
+    "calcium": 15,
+    "iron": 0.5,
+    "magnesium": 30,
+    "zinc": 0.4,
+    "vitamin_a": 10,
+    "vitamin_c": 0,
+    "vitamin_d": 0.1
   }
-  /* add more entries for other foods as needed */
+  }/* add more entries for other foods as needed */
 ]
