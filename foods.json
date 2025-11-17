@@ -1400,5 +1400,716 @@
             "vitamin_c": 0,
             "vitamin_d": 0
         }
+    },
+    {
+        "name": "Dates, medjool",
+        "aliases": [
+            "dates",
+            "medjool dates"
+        ],
+        "source": "Custom Library",
+        "per100": {
+            "calories": 277,
+            "protein": 1.8,
+            "fat": 0.15,
+            "saturated": 0.02,
+            "trans": 0,
+            "monounsaturated": 0.01,
+            "polyunsaturated": 0.01,
+            "carbs": 75,
+            "sugar": 66.5,
+            "fiber": 6.7,
+            "cholesterol": 0,
+            "sodium": 1,
+            "potassium": 696,
+            "calcium": 64,
+            "iron": 0.9,
+            "magnesium": 54,
+            "zinc": 0.44,
+            "vitamin_a": 10,
+            "vitamin_c": 0,
+            "vitamin_d": 0
+        }
+    },
+    {
+        "name": "Duck, roasted",
+        "aliases": [
+            "duck",
+            "roast duck"
+        ],
+        "source": "Custom Library",
+        "per100": {
+            "calories": 337,
+            "protein": 19,
+            "fat": 28.4,
+            "saturated": 9.2,
+            "trans": 0,
+            "monounsaturated": 11.4,
+            "polyunsaturated": 4.3,
+            "carbs": 0,
+            "sugar": 0,
+            "fiber": 0,
+            "cholesterol": 84,
+            "sodium": 63,
+            "potassium": 196,
+            "calcium": 11,
+            "iron": 2.7,
+            "magnesium": 16,
+            "zinc": 2.6,
+            "vitamin_a": 55,
+            "vitamin_c": 0,
+            "vitamin_d": 1
+        }
+    },
+    {
+        "name": "Egg, whole, raw",
+        "aliases": [
+            "egg",
+            "whole egg"
+        ],
+        "source": "Custom Library",
+        "per100": {
+            "calories": 155,
+            "protein": 13,
+            "fat": 11,
+            "saturated": 3.3,
+            "trans": 0,
+            "monounsaturated": 4.1,
+            "polyunsaturated": 1.4,
+            "carbs": 1.1,
+            "sugar": 1.1,
+            "fiber": 0,
+            "cholesterol": 373,
+            "sodium": 124,
+            "potassium": 126,
+            "calcium": 50,
+            "iron": 1.8,
+            "magnesium": 10,
+            "zinc": 1,
+            "vitamin_a": 520,
+            "vitamin_c": 0,
+            "vitamin_d": 1
+        }
+    },
+    {
+        "name": "Edamame, cooked",
+        "aliases": [
+            "edamame",
+            "soybeans"
+        ],
+        "source": "Custom Library",
+        "per100": {
+            "calories": 121,
+            "protein": 11.9,
+            "fat": 5.2,
+            "saturated": 0.7,
+            "trans": 0,
+            "monounsaturated": 1.3,
+            "polyunsaturated": 2.2,
+            "carbs": 8.9,
+            "sugar": 2.2,
+            "fiber": 5.2,
+            "cholesterol": 0,
+            "sodium": 6,
+            "potassium": 436,
+            "calcium": 63,
+            "iron": 2.3,
+            "magnesium": 64,
+            "zinc": 1.2,
+            "vitamin_a": 9,
+            "vitamin_c": 6,
+            "vitamin_d": 0
+        }
+    },
+    {
+        "name": "Eggplant, raw",
+        "aliases": [
+            "eggplant",
+            "aubergine"
+        ],
+        "source": "Custom Library",
+        "per100": {
+            "calories": 25,
+            "protein": 1,
+            "fat": 0.2,
+            "saturated": 0.04,
+            "trans": 0,
+            "monounsaturated": 0.01,
+            "polyunsaturated": 0.07,
+            "carbs": 6,
+            "sugar": 3.2,
+            "fiber": 3,
+            "cholesterol": 0,
+            "sodium": 2,
+            "potassium": 229,
+            "calcium": 9,
+            "iron": 0.2,
+            "magnesium": 14,
+            "zinc": 0.16,
+            "vitamin_a": 2,
+            "vitamin_c": 2.2,
+            "vitamin_d": 0
+        }
+    },
+    {
+        "name": "Feta cheese",
+        "aliases": [
+            "feta",
+            "feta cheese"
+        ],
+        "source": "Custom Library",
+        "per100": {
+            "calories": 264,
+            "protein": 14.2,
+            "fat": 21.3,
+            "saturated": 14.9,
+            "trans": 0,
+            "monounsaturated": 3.9,
+            "polyunsaturated": 0.4,
+            "carbs": 4.1,
+            "sugar": 4.1,
+            "fiber": 0,
+            "cholesterol": 89,
+            "sodium": 917,
+            "potassium": 62,
+            "calcium": 493,
+            "iron": 0.6,
+            "magnesium": 16,
+            "zinc": 0.9,
+            "vitamin_a": 300,
+            "vitamin_c": 0,
+            "vitamin_d": 0
+        }
+    },
+    {
+        "name": "Salmon, Atlantic, cooked",
+        "aliases": [
+            "salmon",
+            "atlantic salmon"
+        ],
+        "source": "Custom Library",
+        "per100": {
+            "calories": 208,
+            "protein": 20.4,
+            "fat": 13.4,
+            "saturated": 3.1,
+            "trans": 0,
+            "monounsaturated": 3.8,
+            "polyunsaturated": 3.9,
+            "carbs": 0,
+            "sugar": 0,
+            "fiber": 0,
+            "cholesterol": 55,
+            "sodium": 59,
+            "potassium": 363,
+            "calcium": 9,
+            "iron": 0.34,
+            "magnesium": 29,
+            "zinc": 0.64,
+            "vitamin_a": 50,
+            "vitamin_c": 0,
+            "vitamin_d": 13
+        }
+    },
+    {
+        "name": "Flaxseed, ground",
+               "aliases": [
+            "flaxseed",
+            "ground flaxseed"
+        ],
+        "source": "Custom Library",
+        "per100": {
+            "calories": 534,
+            "protein": 18.3,
+            "fat": 42.2,
+            "saturated": 3.7,
+            "trans": 0,
+            "monounsaturated": 7.5,
+            "polyunsaturated": 28.7,
+            "carbs": 28.9,
+            "sugar": 1.6,
+            "fiber": 27.3,
+            "cholesterol": 0,
+            "sodium": 30,
+            "potassium": 813,
+            "calcium": 255,
+            "iron": 5.7,
+            "magnesium": 392,
+            "zinc": 4.3,
+            "vitamin_a": 0,
+            "vitamin_c": 0.6,
+            "vitamin_d": 0
+        }
+    },
+    {
+        "name": "Garlic, raw",
+        "aliases": [
+            "garlic"
+        ],
+        "source": "Custom Library",
+        "per100": {
+            "calories": 149,
+            "protein": 6.36,
+            "fat": 0.5,
+            "saturated": 0.09,
+            "trans": 0,
+            "monounsaturated": 0.01,
+            "polyunsaturated": 0.21,
+            "carbs": 33.06,
+            "sugar": 1,
+            "fiber": 2.1,
+            "cholesterol": 0,
+            "sodium": 17,
+            "potassium": 401,
+            "calcium": 181,
+            "iron": 1.7,
+            "magnesium": 25,
+            "zinc": 1.16,
+            "vitamin_a": 0,
+            "vitamin_c": 31.2,
+            "vitamin_d": 0
+        }
+    },
+    {
+        "name": "Ginger, raw",
+        "aliases": [
+            "ginger"
+        ],
+        "source": "Custom Library",
+        "per100": {
+            "calories": 80,
+            "protein": 1.82,
+            "fat": 0.75,
+            "saturated": 0.19,
+            "trans": 0,
+            "monounsaturated": 0.09,
+            "polyunsaturated": 0.3,
+            "carbs": 17.77,
+            "sugar": 1.7,
+            "fiber": 2,
+            "cholesterol": 0,
+            "sodium": 13,
+            "potassium": 415,
+            "calcium": 16,
+            "iron": 0.6,
+            "magnesium": 43,
+            "zinc": 0.34,
+            "vitamin_a": 0,
+            "vitamin_c": 5,
+            "vitamin_d": 0
+        }
+    },
+    {
+        "name": "Grapes, raw",
+        "aliases": [
+            "grapes"
+        ],
+        "source": "Custom Library",
+        "per100": {
+            "calories": 69,
+            "protein": 0.72,
+            "fat": 0.16,
+            "saturated": 0.05,
+            "trans": 0,
+            "monounsaturated": 0.01,
+            "polyunsaturated": 0.05,
+            "carbs": 18.1,
+            "sugar": 15.5,
+            "fiber": 0.9,
+            "cholesterol": 0,
+            "sodium": 2,
+            "potassium": 191,
+            "calcium": 10,
+            "iron": 0.36,
+            "magnesium": 7,
+            "zinc": 0.07,
+            "vitamin_a": 3,
+            "vitamin_c": 3.2,
+            "vitamin_d": 0
+        }
+    },
+    {
+        "name": "Greek yoghurt, plain whole milk",
+        "aliases": [
+            "greek yoghurt",
+            "plain greek yoghurt"
+        ],
+        "source": "Custom Library",
+        "per100": {
+            "calories": 97,
+            "protein": 10,
+            "fat": 5,
+            "saturated": 3.1,
+            "trans": 0,
+            "monounsaturated": 1.2,
+            "polyunsaturated": 0.2,
+            "carbs": 3.6,
+            "sugar": 3.2,
+            "fiber": 0,
+            "cholesterol": 17,
+            "sodium": 36,
+            "potassium": 141,
+            "calcium": 110,
+            "iron": 0.05,
+            "magnesium": 11,
+            "zinc": 0.6,
+            "vitamin_a": 50,
+            "vitamin_c": 0,
+            "vitamin_d": 0.1
+        }
+    },
+    {
+        "name": "Green beans, cooked",
+        "aliases": [
+            "green beans",
+            "string beans"
+        ],
+        "source": "Custom Library",
+        "per100": {
+            "calories": 31,
+            "protein": 1.8,
+            "fat": 0.1,
+            "saturated": 0.03,
+            "trans": 0,
+            "monounsaturated": 0.01,
+            "polyunsaturated": 0.04,
+            "carbs": 7.1,
+            "sugar": 3.3,
+            "fiber": 3.4,
+            "cholesterol": 0,
+            "sodium": 6,
+            "potassium": 211,
+            "calcium": 37,
+            "iron": 1.0,
+            "magnesium": 25,
+            "zinc": 0.2,
+            "vitamin_a": 35,
+            "vitamin_c": 12.2,
+            "vitamin_d": 0
+        }
+    },
+    {
+        "name": "Honey, raw",
+        "aliases": [
+            "honey"
+        ],
+        "source": "Custom Library",
+        "per100": {
+            "calories": 304,
+            "protein": 0.3,
+            "fat": 0,
+            "saturated": 0,
+            "trans": 0,
+            "monounsaturated": 0,
+            "polyunsaturated": 0,
+            "carbs": 82.4,
+            "sugar": 82.1,
+            "fiber": 0.2,
+            "cholesterol": 0,
+            "sodium": 4,
+            "potassium": 52,
+            "calcium": 6,
+            "iron": 0.4,
+            "magnesium": 2,
+            "zinc": 0.2,
+            "vitamin_a": 0,
+            "vitamin_c": 0.5,
+            "vitamin_d": 0
+        }
+    },
+    {
+        "name": "Kale, raw",
+        "aliases": [
+            "kale"
+        ],
+        "source": "Custom Library",
+        "per100": {
+            "calories": 49,
+            "protein": 4.3,
+            "fat": 0.9,
+            "saturated": 0.13,
+            "trans": 0,
+            "monounsaturated": 0.03,
+            "polyunsaturated": 0.4,
+            "carbs": 8.8,
+            "sugar": 1.6,
+            "fiber": 3.6,
+            "cholesterol": 0,
+            "sodium": 38,
+            "potassium": 491,
+            "calcium": 150,
+            "iron": 1.5,
+            "magnesium": 47,
+            "zinc": 0.56,
+            "vitamin_a": 6810,
+            "vitamin_c": 120,
+            "vitamin_d": 0
+        }
+    },
+    {
+        "name": "Lamb, loin, cooked",
+        "aliases": [
+            "lamb",
+            "lamb loin"
+        ],
+        "source": "Custom Library",
+        "per100": {
+            "calories": 258,
+            "protein": 25.6,
+            "fat": 17.2,
+            "saturated": 7.3,
+            "trans": 0,
+            "monounsaturated": 6.9,
+            "polyunsaturated": 1.2,
+            "carbs": 0,
+            "sugar": 0,
+            "fiber": 0,
+            "cholesterol": 97,
+            "sodium": 72,
+            "potassium": 270,
+            "calcium": 14,
+            "iron": 1.9,
+            "magnesium": 25,
+            "zinc": 4.1,
+            "vitamin_a": 0,
+            "vitamin_c": 0,
+            "vitamin_d": 0
+        }
+    },
+    {
+        "name": "Lentils, cooked",
+        "aliases": [
+            "lentils"
+        ],
+        "source": "Custom Library",
+        "per100": {
+            "calories": 116,
+            "protein": 9.0,
+            "fat": 0.4,
+            "saturated": 0.06,
+            "trans": 0,
+            "monounsaturated": 0.05,
+            "polyunsaturated": 0.2,
+            "carbs": 20.1,
+            "sugar": 1.8,
+            "fiber": 7.9,
+            "cholesterol": 0,
+            "sodium": 2,
+            "potassium": 369,
+            "calcium": 19,
+            "iron": 3.3,
+            "magnesium": 36,
+            "zinc": 1.3,
+            "vitamin_a": 1,
+            "vitamin_c": 1.5,
+            "vitamin_d": 0
+        }
+    },
+    {
+        "name": "Mango, raw",
+        "aliases": [
+            "mango"
+        ],
+        "source": "Custom Library",
+        "per100": {
+            "calories": 60,
+            "protein": 0.82,
+            "fat": 0.38,
+            "saturated": 0.1,
+            "trans": 0,
+            "monounsaturated": 0.03,
+            "polyunsaturated": 0.12,
+            "carbs": 15,
+            "sugar": 13.7,
+            "fiber": 1.6,
+            "cholesterol": 0,
+            "sodium": 1,
+            "potassium": 168,
+            "calcium": 11,
+            "iron": 0.16,
+            "magnesium": 10,
+            "zinc": 0.09,
+            "vitamin_a": 54,
+            "vitamin_c": 36.4,
+            "vitamin_d": 0
+        }
+    },
+    {
+        "name": "Milk, whole (3.25% fat)",
+        "aliases": [
+            "milk",
+            "whole milk"
+        ],
+        "source": "Custom Library",
+        "per100": {
+            "calories": 61,
+            "protein": 3.15,
+            "fat": 3.25,
+            "saturated": 1.9,
+            "trans": 0,
+            "monounsaturated": 1.2,
+            "polyunsaturated": 0.1,
+            "carbs": 4.8,
+            "sugar": 4.8,
+            "fiber": 0,
+            "cholesterol": 10,
+            "sodium": 44,
+            "potassium": 150,
+            "calcium": 113,
+            "iron": 0.02,
+            "magnesium": 10,
+            "zinc": 0.4,
+            "vitamin_a": 46,
+            "vitamin_c": 0,
+            "vitamin_d": 0.1
+        }
+    },
+    {
+        "name": "Mushrooms, white, raw",
+        "aliases": [
+            "mushrooms",
+            "white mushrooms"
+        ],
+        "source": "Custom Library",
+        "per100": {
+            "calories": 22,
+            "protein": 3.1,
+            "fat": 0.3,
+            "saturated": 0.05,
+            "trans": 0,
+            "monounsaturated": 0.01,
+            "polyunsaturated": 0.1,
+            "carbs": 3.3,
+            "sugar": 2.0,
+            "fiber": 1.0,
+            "cholesterol": 0,
+            "sodium": 5,
+            "potassium": 318,
+            "calcium": 3,
+            "iron": 0.5,
+            "magnesium": 9,
+            "zinc": 0.5,
+            "vitamin_a": 0,
+            "vitamin_c": 2.1,
+            "vitamin_d": 0
+        }
+    },
+    {
+        "name": "Oats, rolled, dry",
+               "aliases": [
+            "oats",
+            "rolled oats"
+        ],
+        "source": "Custom Library",
+        "per100": {
+            "calories": 379,
+            "protein": 13.5,
+            "fat": 6.5,
+            "saturated": 1.2,
+            "trans": 0,
+            "monounsaturated": 2.2,
+            "polyunsaturated": 2.5,
+            "carbs": 66.3,
+            "sugar": 0,
+            "fiber": 10.6,
+            "cholesterol": 0,
+            "sodium": 2,
+            "potassium": 429,
+            "calcium": 54,
+            "iron": 4.7,
+            "magnesium": 177,
+            "zinc": 3.1,
+            "vitamin_a": 0,
+            "vitamin_c": 0,
+            "vitamin_d": 0
+        }
+    },
+    {
+        "name": "Olive oil, extra virgin",
+        "aliases": [
+            "olive oil",
+            "extra virgin olive oil"
+        ],
+        "source": "Custom Library",
+        "per100": {
+            "calories": 884,
+            "protein": 0,
+            "fat": 100,
+            "saturated": 14,
+            "trans": 0,
+            "monounsaturated": 73,
+            "polyunsaturated": 11,
+            "carbs": 0,
+            "sugar": 0,
+            "fiber": 0,
+            "cholesterol": 0,
+            "sodium": 0,
+            "potassium": 1,
+            "calcium": 1,
+            "iron": 0.56,
+            "magnesium": 0,
+            "zinc": 0,
+            "vitamin_a": 0,
+            "vitamin_c": 0,
+            "vitamin_d": 0
+        }
+    },
+    {
+        "name": "Onion, raw",
+        "aliases": [
+            "onion"
+        ],
+        "source": "Custom Library",
+        "per100": {
+            "calories": 40,
+            "protein": 1.1,
+            "fat": 0.1,
+            "saturated": 0.02,
+            "trans": 0,
+            "monounsaturated": 0.01,
+            "polyunsaturated": 0.05,
+            "carbs": 9.3,
+            "sugar": 4.2,
+            "fiber": 1.7,
+            "cholesterol": 0,
+            "sodium": 4,
+            "potassium": 146,
+            "calcium": 23,
+            "iron": 0.21,
+            "magnesium": 10,
+            "zinc": 0.17,
+            "vitamin_a": 2,
+            "vitamin_c": 7.4,
+            "vitamin_d": 0
+        }
+    },
+    {
+        "name": "Orange, raw",
+        "aliases": [
+            "orange"
+        ],
+        "source": "Custom Library",
+        "per100": {
+            "calories": 47,
+            "protein": 0.94,
+            "fat": 0.12,
+            "saturated": 0.03,
+            "trans": 0,
+            "monounsaturated": 0.01,
+            "polyunsaturated": 0.04,
+            "carbs": 11.8,
+            "sugar": 9.4,
+            "fiber": 2.4,
+            "cholesterol": 0,
+            "sodium": 0,
+            "potassium": 181,
+            "calcium": 40,
+            "iron": 0.1,
+            "magnesium": 10,
+            "zinc": 0.07,
+            "vitamin_a": 225,
+            "vitamin_c": 53.2,
+            "vitamin_d": 0
+        }
     }
 ]
