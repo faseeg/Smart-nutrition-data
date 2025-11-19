@@ -2114,7 +2114,7 @@
     }
 ,
     {
-      "food_name": "Agar Agar (Powder)",
+      "name": "Agar Agar (Powder)",
       "standard_portion": "1 tbsp (7g)",
       "calories": 21,
       "protein": 0.2,
@@ -2138,7 +2138,7 @@
       "vitamin_d": 0
     },
     {
-      "food_name": "Alfalfa Sprouts",
+      "name": "Alfalfa Sprouts",
       "standard_portion": "1 cup (33g)",
       "calories": 8,
       "protein": 1.3,
@@ -2162,7 +2162,7 @@
       "vitamin_d": 0
     },
     {
-      "food_name": "Allspice (Ground)",
+      "name": "Allspice (Ground)",
       "standard_portion": "1 tsp (2g)",
       "calories": 5,
       "protein": 0.1,
@@ -2186,7 +2186,7 @@
       "vitamin_d": 0
     },
     {
-      "food_name": "Amaranth (Cooked)",
+      "name": "Amaranth (Cooked)",
       "standard_portion": "1 cup (246g)",
       "calories": 251,
       "protein": 9.3,
@@ -2210,7 +2210,7 @@
       "vitamin_d": 0
     },
     {
-      "food_name": "Anchovies (Canned in Oil)",
+      "name": "Anchovies (Canned in Oil)",
       "standard_portion": "1 fillet (5g)",
       "calories": 8,
       "protein": 1.2,
@@ -2234,7 +2234,7 @@
       "vitamin_d": 1
     },
     {
-      "food_name": "Anise Seeds",
+      "name": "Anise Seeds",
       "standard_portion": "1 tbsp (6g)",
       "calories": 23,
       "protein": 1,
@@ -2258,7 +2258,7 @@
       "vitamin_d": 0
     },
     {
-      "food_name": "Apple Juice (Unsweetened)",
+      "name": "Apple Juice (Unsweetened)",
       "standard_portion": "1 cup (248g)",
       "calories": 114,
       "protein": 0.2,
