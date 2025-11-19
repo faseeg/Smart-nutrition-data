@@ -2135,6 +2135,7 @@
       "vitamin_a": 0,
       "vitamin_c": 0,
       "vitamin_d": 0
+        }
     },
     {
       "name": "Alfalfa Sprouts",
@@ -2159,6 +2160,7 @@
       "vitamin_a": 51,
       "vitamin_c": 2.7,
       "vitamin_d": 0
+        }
     },
     {
       "name": "Allspice (Ground)",
@@ -2183,6 +2185,7 @@
       "vitamin_a": 10,
       "vitamin_c": 0.2,
       "vitamin_d": 0
+         }
     },
     {
       "name": "Amaranth (Cooked)",
@@ -2207,6 +2210,7 @@
       "vitamin_a": 3,
       "vitamin_c": 0,
       "vitamin_d": 0
+        }
     },
     {
       "name": "Anchovies (Canned in Oil)",
@@ -2231,6 +2235,7 @@
       "vitamin_a": 3,
       "vitamin_c": 0,
       "vitamin_d": 1
+        }
     },
     {
       "name": "Anise Seeds",
@@ -2255,6 +2260,7 @@
       "vitamin_a": 12,
       "vitamin_c": 0.3,
       "vitamin_d": 0
+        }
     },
     {
       "name": "Apple Juice (Unsweetened)",
@@ -2279,8 +2285,9 @@
       "vitamin_a": 8,
       "vitamin_c": 2.2,
       "vitamin_d": 0
-    }
-{
+        }
+    },
+    {
   "name": "Agar Agar (Powder)",
   "aliases": [],
   "source": "Custom Library",
@@ -2305,7 +2312,7 @@
     "vitamin_a": 0,
     "vitamin_c": 0,
     "vitamin_d": 0
-  }
+    }
 },
 {
   "name": "Alfalfa Sprouts",
@@ -2332,7 +2339,7 @@
     "vitamin_a": 51,
     "vitamin_c": 2.7,
     "vitamin_d": 0
-  }
+    }
 },
 {
   "name": "Allspice (Ground)",
@@ -2359,7 +2366,7 @@
     "vitamin_a": 10,
     "vitamin_c": 0.2,
     "vitamin_d": 0
-  }
+    }
 },
 {
   "name": "Amaranth (Cooked)",
@@ -2386,7 +2393,7 @@
     "vitamin_a": 3,
     "vitamin_c": 0,
     "vitamin_d": 0
-  }
+   }
 },
 {
   "name": "Anchovies (Canned in Oil)",
@@ -2413,7 +2420,7 @@
     "vitamin_a": 3,
     "vitamin_c": 0,
     "vitamin_d": 1
-  }
+    }
 },
 {
   "name": "Anise Seeds",
@@ -2440,7 +2447,7 @@
     "vitamin_a": 12,
     "vitamin_c": 0.3,
     "vitamin_d": 0
-  }
+    }
 },
 {
   "name": "Apple Juice (Unsweetened)",
@@ -2467,6 +2474,6 @@
     "vitamin_a": 8,
     "vitamin_c": 2.2,
     "vitamin_d": 0
-  }
+    }
 }
   ]
